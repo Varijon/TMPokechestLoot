@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmpokechestloot",
+  "name": "TMPokechestLoot",
+  "description": "Mod for adding TM loot back to pokechests.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
